@@ -1,0 +1,1 @@
+document.getElementById('sampleSecond').addEventListener('click', window.open("https://github.com/yinjann/guardog/blob/master/README%20(1).pdf"));
