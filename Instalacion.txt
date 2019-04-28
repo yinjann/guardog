@@ -1,0 +1,13 @@
+INSTALACIÓN:
+
+1. Descomprime la carpeta "GuarDog"
+
+2. ingresa a "chrome://extensions/"
+
+3. Activa "Modo Desarrollador"
+
+4. Da Click a "Cargar extensión sin empaquetar"
+
+5. Selecciona la carpeta "GuarDog"
+
+6. ¡¡¡Disfruta!!!
